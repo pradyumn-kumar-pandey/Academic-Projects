@@ -1,1 +1,2 @@
-
+Quiz game built purely in C Language using the graphics library.
+Useful for small quizzes where the questions are to be prepared few moments before the quiz starts, flexibility to change questions too.
