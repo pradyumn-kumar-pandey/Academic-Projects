@@ -1,1 +1,3 @@
+Simple GUI based tool made using Python Graphics with tkinter used to encrpyt and decrypt text strings based upon Caesar Cipher Technique.
 
+Caesar Cipher Technique was used by Roman King Julius Caesar to convey the confidential meaasages during his era.
