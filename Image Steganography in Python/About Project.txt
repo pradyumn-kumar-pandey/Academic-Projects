@@ -1,1 +1,3 @@
+Image Steganography is the process of hiding text meaasages behind the image, thus , the message becomes invisible to the naked eyes, and can be only retreived via some specific algorithms.
 
+This is a GUI based tool to encode and decode images for text meaasages.It uses the PIL and tkinter modules.
