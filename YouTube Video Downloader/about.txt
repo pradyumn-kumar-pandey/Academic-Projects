@@ -1,1 +1,3 @@
-
+Simple GUI based Youtube Video Downloader made in python.
+Easy to use.
+User can download the video in his/her own preferred resolution after checking the available resolutions.
