@@ -1,1 +1,1 @@
-
+GUI based game built in python which assumes a number randomly between the range of numbers provided by the user and then user guesses the number till the correct guess is made. 
